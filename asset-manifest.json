@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/redux_puzzle/static/css/main.92f11be1.css",
+    "main.js": "/redux_puzzle/static/js/main.cb479292.js",
+    "static/js/787.5700faa5.chunk.js": "/redux_puzzle/static/js/787.5700faa5.chunk.js",
+    "static/media/6k.png": "/redux_puzzle/static/media/6k.58dbd410e17fb672a044.png",
+    "static/media/10k.png": "/redux_puzzle/static/media/10k.1f8eaf4f08c3e4a57436.png",
+    "static/media/1k.png": "/redux_puzzle/static/media/1k.f4eae8304d34bccd9183.png",
+    "static/media/9k.png": "/redux_puzzle/static/media/9k.edac38eddf243b35e626.png",
+    "static/media/2k.jpg": "/redux_puzzle/static/media/2k.6c2a1c61c4d203ec6a64.jpg",
+    "static/media/3k.jpg": "/redux_puzzle/static/media/3k.b1590fe505676c3490f0.jpg",
+    "static/media/5k.jpg": "/redux_puzzle/static/media/5k.cbaee170659687029cf8.jpg",
+    "static/media/4k.jpg": "/redux_puzzle/static/media/4k.a8e518a233e9b2318a17.jpg",
+    "index.html": "/redux_puzzle/index.html",
+    "main.92f11be1.css.map": "/redux_puzzle/static/css/main.92f11be1.css.map",
+    "main.cb479292.js.map": "/redux_puzzle/static/js/main.cb479292.js.map",
+    "787.5700faa5.chunk.js.map": "/redux_puzzle/static/js/787.5700faa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92f11be1.css",
+    "static/js/main.cb479292.js"
+  ]
+}
