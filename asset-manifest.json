@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/redux_puzzle/static/css/main.2ab5beff.css",
-    "main.js": "/redux_puzzle/static/js/main.0607343b.js",
+    "main.css": "/redux_puzzle/static/css/main.da9973f3.css",
+    "main.js": "/redux_puzzle/static/js/main.4dd52519.js",
     "static/js/787.5700faa5.chunk.js": "/redux_puzzle/static/js/787.5700faa5.chunk.js",
     "static/media/6k.png": "/redux_puzzle/static/media/6k.58dbd410e17fb672a044.png",
     "static/media/10k.png": "/redux_puzzle/static/media/10k.1f8eaf4f08c3e4a57436.png",
@@ -12,12 +12,12 @@
     "static/media/5k.jpg": "/redux_puzzle/static/media/5k.cbaee170659687029cf8.jpg",
     "static/media/4k.jpg": "/redux_puzzle/static/media/4k.a8e518a233e9b2318a17.jpg",
     "index.html": "/redux_puzzle/index.html",
-    "main.2ab5beff.css.map": "/redux_puzzle/static/css/main.2ab5beff.css.map",
-    "main.0607343b.js.map": "/redux_puzzle/static/js/main.0607343b.js.map",
+    "main.da9973f3.css.map": "/redux_puzzle/static/css/main.da9973f3.css.map",
+    "main.4dd52519.js.map": "/redux_puzzle/static/js/main.4dd52519.js.map",
     "787.5700faa5.chunk.js.map": "/redux_puzzle/static/js/787.5700faa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ab5beff.css",
-    "static/js/main.0607343b.js"
+    "static/css/main.da9973f3.css",
+    "static/js/main.4dd52519.js"
   ]
 }
